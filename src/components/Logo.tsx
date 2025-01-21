@@ -1,7 +1,6 @@
 import Link from "next/link";
 import React from "react";
 import { twMerge } from "tailwind-merge";
-import { SiNike } from "react-icons/si";
 
 
 const Logo = ({ className }: { className?: string }) => {
